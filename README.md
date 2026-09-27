@@ -15,7 +15,7 @@ An executable to upload credentials from the REANA server to the Compute4PUNCH i
 A Puppet module to deploy and configure motley-cue, a service for mapping OIDC identities to local identities.
 
 - [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
-Utilities to test the Compute4PUNCH infrastructure, access the Storage4PUNCH resources and build a local REANA instance.
+Utilities to test the C4P infrastructure, access the Storage4PUNCH resources and build a local REANA instance.
 
 - [feudaladapterldf](https://github.com/benoitroland/feudaladapterldf)
 LDAP backend for the Compute4PUNCH login nodes.
