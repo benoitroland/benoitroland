@@ -6,7 +6,7 @@ Repositories developed in the context of the Compute4PUNCH compute infrastructur
   
 Access token management and refresh within the HTCondor batch system for the Compute4PUNCH infrastructure.
 
-- [C4P-REANA-Producer] (https://github.com/benoitroland/C4P-REANA-Producer)
+- [C4P-REANA-Producer](https://github.com/benoitroland/C4P-REANA-Producer)
 
 An executable to produce credentials locally and upload them to the secrets of the REANA server. 
 
