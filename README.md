@@ -10,6 +10,10 @@ Access token management and refresh within the HTCondor batch system for the Com
 
 An executable to produce, refresh and upload credentials to the secrets of the REANA server. 
 
+- [C4P-REANA-Upload](https://github.com/benoitroland/C4P-REANA-Upload)
+
+An executable to upload credentials from the REANA server to the Compute4PUNCH infrastructure.
+
 - [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
 
 Utilities to test the Compute4PUNCH infrastructure and access the Storage4PUNCH resources.
