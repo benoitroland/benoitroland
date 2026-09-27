@@ -14,11 +14,11 @@ An executable to produce, refresh and upload credentials to the secrets of the R
 
 An executable to upload credentials from the REANA server to the Compute4PUNCH infrastructure.
 
-- [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
-
 - [ssh_oidc](https://github.com/benoitroland/ssh_oidc)
 
 A Puppet module to deploy and configure motley-cue, a service for mapping OIDC identities to local identities.
+
+- [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
 
 Utilities to test the Compute4PUNCH infrastructure and access the Storage4PUNCH resources.
 
