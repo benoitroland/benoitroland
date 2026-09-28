@@ -1,7 +1,5 @@
 ## Compute4PUNCH
 
-Repositories developed in the context of the Compute4PUNCH compute infrastructure.
-
 - [C4P-HTCondor](https://github.com/benoitroland/C4P-HTCondor)
 Access token management and refresh within the HTCondor batch system for the C4P infrastructure.
 - [C4P-REANA-Producer](https://github.com/benoitroland/C4P-REANA-Producer)
