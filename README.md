@@ -27,9 +27,9 @@ Tutorial about the C4P and S4P infrastructures.
 Tutorial to run an analysis on C4P.
 
 - [MeerKLASS software](https://github.com/benoitroland/MeerKLASS)
+MeerKLASS software.
 - [MeerKLASS container](https://github.com/benoitroland/container-stacks-meerklass)
-
-MeerKLASS software and container.
+MeerKLASS container.
 
 ## REANA
 
