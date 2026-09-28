@@ -26,6 +26,10 @@ Tutorial about the C4P and S4P infrastructures.
 - [Training Analysis](https://github.com/benoitroland/c4p_tutorial_h4leptons_analysis)
 Tutorial to run an analysis on C4P.
 
+- [MeerKLASS software](https://github.com/benoitroland/MeerKLASS)
+- [MeerKLASS container](https://github.com/benoitroland/container-stacks-meerklass)
+MeerKLASS software and container.
+
 ## REANA
 
 - [reana-job-controller](https://github.com/benoitroland/reana-job-controller)
