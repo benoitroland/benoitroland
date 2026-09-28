@@ -20,6 +20,9 @@ A Puppet module to deploy and configure motley-cue, a service for mapping OIDC i
 - [feudaladapterldf](https://github.com/benoitroland/feudaladapterldf)
 LDAP backend for the Compute4PUNCH login nodes.
 
+- [Training](https://github.com/benoitroland/compute4punch-and-storage4punch-training-2024)
+Tutorial about the C4P and S4P infrastructures.
+
 ## REANA
 
 - [reana-job-controller](https://github.com/benoitroland/reana-job-controller)
