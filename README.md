@@ -3,29 +3,21 @@
 Repositories developed in the context of the Compute4PUNCH compute infrastructure.
 
 - [C4P-HTCondor](https://github.com/benoitroland/C4P-HTCondor)
-Access token management and refresh within the HTCondor batch system for the Compute4PUNCH infrastructure.
-
+Access token management and refresh within the HTCondor batch system for the C4P infrastructure.
 - [C4P-REANA-Producer](https://github.com/benoitroland/C4P-REANA-Producer)
 An executable to produce, refresh and upload credentials to the secrets of the REANA server. 
-
 - [C4P-REANA-Upload](https://github.com/benoitroland/C4P-REANA-Upload)
 An executable to upload credentials from the REANA server to the Compute4PUNCH infrastructure.
-
 - [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
 Utilities to test the C4P infrastructure, access the Storage4PUNCH resources and build a local REANA instance.
-
 - [ssh_oidc](https://github.com/benoitroland/ssh_oidc)
 A Puppet module to deploy and configure motley-cue, a service for mapping OIDC identities to local identities.
-
 - [feudaladapterldf](https://github.com/benoitroland/feudaladapterldf)
 LDAP backend for the Compute4PUNCH login nodes.
-
 - [Training Infrastructure](https://github.com/benoitroland/compute4punch-and-storage4punch-training-2024)
 Tutorial about the C4P and S4P infrastructures.
-
 - [Training Analysis](https://github.com/benoitroland/c4p_tutorial_h4leptons_analysis)
 Tutorial to run an analysis on C4P.
-
 - [MeerKLASS software](https://github.com/benoitroland/MeerKLASS)
 MeerKLASS software.
 - [MeerKLASS container](https://github.com/benoitroland/container-stacks-meerklass)
