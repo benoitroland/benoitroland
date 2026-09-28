@@ -1,5 +1,7 @@
 ## Compute4PUNCH
 
+Developments within the PUNCH4NFDI project.
+
 - [C4P-HTCondor](https://github.com/benoitroland/C4P-HTCondor)
 Access token management and refresh within the HTCondor batch system for the C4P infrastructure.
 - [C4P-REANA-Producer](https://github.com/benoitroland/C4P-REANA-Producer)
@@ -23,6 +25,8 @@ MeerKLASS container.
 
 ## REANA
 
+Implementation of the Compute4PUNCH backend in the REANA software.
+
 - [reana-job-controller](https://github.com/benoitroland/reana-job-controller)
 - [reana-commons](https://github.com/benoitroland/reana-commons)
 - [reana](https://github.com/benoitroland/reana)
@@ -31,8 +35,6 @@ MeerKLASS container.
 - [reana-workflow-engine-snakemake](https://github.com/benoitroland/reana-workflow-engine-snakemake)
 - [reana-workflow-engine-yadage](https://github.com/benoitroland/reana-workflow-engine-yadage)
 - [reana-demo-helloworld](https://github.com/benoitroland/reana-demo-helloworld)
-
-Implementation of the Compute4PUNCH backend in the REANA software.
 
 ## Particle Physics
 
