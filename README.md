@@ -44,7 +44,11 @@ MeerKLASS container.
 
 Implementation of the Compute4PUNCH backend in the REANA software.
 
+## Particle Physics
 
-
+- [InclusiveJet](https://github.com/benoitroland/InclusiveJet)
+- [TrackTree](https://github.com/benoitroland/TrackTree)
+- [TrackAnalyzer](https://github.com/benoitroland/TrackAnalyzer)
+- [Fit-Plotter](https://github.com/benoitroland/Fit-Plotter)
 
 
