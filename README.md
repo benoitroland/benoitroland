@@ -3,9 +3,9 @@
 - [C4P-HTCondor](https://github.com/benoitroland/C4P-HTCondor)
 Access token management and refresh within the HTCondor batch system for the C4P infrastructure.
 - [C4P-REANA-Producer](https://github.com/benoitroland/C4P-REANA-Producer)
-An executable to produce, refresh and upload credentials to the secrets of the REANA server. 
+An executable to produce, refresh and upload credentials to the secrets of a REANA server. 
 - [C4P-REANA-Upload](https://github.com/benoitroland/C4P-REANA-Upload)
-An executable to upload credentials from the REANA server to the Compute4PUNCH infrastructure.
+An executable to upload credentials from a REANA server to the Compute4PUNCH infrastructure.
 - [C4P-Utils](https://github.com/benoitroland/C4P-Utils)
 Utilities to test the C4P infrastructure, access the Storage4PUNCH resources and build a local REANA instance.
 - [ssh_oidc](https://github.com/benoitroland/ssh_oidc)
