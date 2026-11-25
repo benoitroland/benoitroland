@@ -35,6 +35,7 @@ Implementation of the Compute4PUNCH backend in the REANA software.
 - [reana-workflow-engine-snakemake](https://github.com/benoitroland/reana-workflow-engine-snakemake)
 - [reana-workflow-engine-yadage](https://github.com/benoitroland/reana-workflow-engine-yadage)
 - [reana-demo-helloworld](https://github.com/benoitroland/reana-demo-helloworld)
+- [reana-github-actions](https://github.com/benoitroland/reana-github-actions)
 
 ## Particle Physics
 
